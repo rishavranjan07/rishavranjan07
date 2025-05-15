@@ -1,5 +1,5 @@
-<h1>Hii there 👋 I'm Rishav Ranjan </h1>
-# 💫 About Me:
+<h1>Hii 👋 I'm Rishav Ranjan </h1>
+ 💫 About Me:
 I'm a B.Tech Computer Science Engineering student at Gandhi Engineering College, Bhubaneswar. I have a passion for technology and a keen interest in software development, data science, and artificial intelligence.
 
 
